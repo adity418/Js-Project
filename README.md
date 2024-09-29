@@ -72,7 +72,7 @@ No installation is required! Simply clone or download this repository and open t
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/javascript-fun-apps.git
+git clone https://github.com/adity418/Js-Project.git
 cd javascript-fun-apps
 Then, open the desired .html file in your web browser to interact with the app.
 
