@@ -97,6 +97,6 @@ Feel free to fork this repository and add new features, improve the existing one
 
 
 Author
-Your Name
-GitHub: your-username
+Aditya Mishra
+GitHub: adity418
 
